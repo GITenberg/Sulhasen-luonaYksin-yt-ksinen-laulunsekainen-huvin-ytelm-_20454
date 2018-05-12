@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6006
     wikipedia: http://fi.wikipedia.org/wiki/Robert_Kiljander
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20454#Sulhasen-luonaYksin-yt-ksinen-laulunsekainen-huvin-ytelm-
 gutenberg_issued: '2007-01-27'
 gutenberg_type: Text
 identifiers:
