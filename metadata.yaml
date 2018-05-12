@@ -1,0 +1,29 @@
+_repo: Sulhasen-luonaYksin-yt-ksinen-laulunsekainen-huvin-ytelm-_20454
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kiljander, Robert
+    birthdate: 1848
+    deathdate: 1924
+    gutenberg_agent_id: '6006'
+    url: http://www.gutenberg.org/2009/agents/6006
+    wikipedia: http://fi.wikipedia.org/wiki/Robert_Kiljander
+description: ''
+gutenberg_issued: '2007-01-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20454'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Finnish drama'
+title: 'Sulhasen luona
+
+  Yksinäytöksinen laulunsekainen huvinäytelmä'
+url: http://www.gutenberg.org/ebooks/20454
